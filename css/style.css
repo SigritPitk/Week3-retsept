@@ -53,6 +53,17 @@ li{
     color: brown;
 }
 
+a{
+    color: crimson;
+}
+
+.link{
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    color: crimson;
+}
+
 footer{
     text-align: center;
     padding-top: 30px;
