@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+body{
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    font-size: 40px;
+}
+
+.image{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    padding: 30px;
+    margin: 0 auto;
+}
+
+th{
+    font-family: 'Mukta', sans-serif;
+}
+
+td{
+    font-family: 'Rajdhani', sans-serif;
+}
+
+h3{
+    padding-left: 30px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.instructions{
+    margin: 0 auto;
+    width: 50%;
+    padding-bottom: 20px;
+}
+
+li{
+    font-family: 'Rajdhani', sans-serif; 
+}
+
+footer{
+    text-align: center;
+    padding-top: 30px;
+}
