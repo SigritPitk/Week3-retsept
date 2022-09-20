@@ -27,11 +27,13 @@ table{
 th{
     font-family: 'Mukta', sans-serif;
     color:crimson;
+    font-size: 25px;
 }
 
 td{
     font-family: 'Rajdhani', sans-serif;
     color: brown;
+    font-size: 20px;
 }
 
 h3{
@@ -40,6 +42,7 @@ h3{
     font-size: 20px;
     text-align: center;
     color: crimson;
+    font-size: 25px;
 }
 
 .instructions{
@@ -51,6 +54,7 @@ h3{
 li{
     font-family: 'Rajdhani', sans-serif; 
     color: brown;
+    font-size: 20px;
 }
 
 a{
